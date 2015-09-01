@@ -1,0 +1,19 @@
+{
+  "name": "elevatezoom",
+  "version": "3.0.9",
+  "description": "foo",
+  "main": "jquery.elevatezoom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbiz/elevatezoom.git"
+  },
+  "author": "fbiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbiz/elevatezoom/issues"
+  },
+  "homepage": "https://github.com/fbiz/elevatezoom#readme"
+}
